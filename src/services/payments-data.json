@@ -1,0 +1,11 @@
+{
+    "payments": [{
+        "date": "01/01/2018",
+        "type": "ACH",
+        "user-type": "primary",
+        "amount": "120.01",
+        "bank": {
+            "name": "BOA"
+        }
+    }]
+}
