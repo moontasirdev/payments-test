@@ -2,8 +2,7 @@
   <div>
     <h2>Payment List</h2>
     <PaymentFilter></PaymentFilter>
-    <!-- <PaymentListItem v-for="payment in allPayments" :payment="payment" :key="payment.id"></PaymentListItem> -->
-    <span v-for="payment in allPayments" :key="payment.id">{{payment.id}}</span>
+    <PaymentListItem v-for="payment in allPayments" :payment="payment" :key="payment.id"></PaymentListItem>
   </div>
 </template>
 <script>
