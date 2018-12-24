@@ -18,4 +18,14 @@
         "name": "Chase",
         "accountNumber": "112233"
     }
+}, {
+    "id": "122w323",
+    "date": "03/03/2018",
+    "type": "ACH",
+    "user-type": "primary",
+    "amount": "210.21",
+    "bank": {
+        "name": "Chase",
+        "accountNumber": "112233"
+    }
 }]

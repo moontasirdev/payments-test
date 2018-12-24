@@ -8,7 +8,7 @@ export default {
         return new Promise(resolve => {
             setTimeout(() => {
                 resolve(data);
-            }, 2000);
+            }, 1000);
         });
     }
 }
